@@ -1,5 +1,4 @@
 import numpy as np
-import math
 
 image = np.random.randint(10, size=(4,4))
 
